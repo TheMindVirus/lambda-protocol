@@ -1,0 +1,10 @@
+Glow
+|-strength: 0.71
+|-size: 1.04
+|-Cut Off: 0.05
+Barrel Blur
+|-amount: 0.02
+Scanlines
+|-count: 1
+|-lines amount: 2
+|-noise amount: 2

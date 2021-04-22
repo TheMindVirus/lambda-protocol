@@ -1,0 +1,12 @@
+Melt
+|-amount: 0.01
+|-scale: 0.2
+|-speed: 0.3
+DuoTone
+|-light color: #7f00ff
+|-dark color: #000000
+|-levels: 2
+Glow
+|-strength: 0.74
+|-size: 2.03
+|-Cut Off: 0
