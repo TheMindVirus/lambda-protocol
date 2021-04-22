@@ -8,7 +8,7 @@ What happens if Portal becomes a simulation for the purpose of unlocking in-univ
 Can you run Portal inside another game? Can you use Portal Test Chamber completion to trigger real-world events? \
 What if the combine found a way to step out of the Half-Life world and infected the Portal security simulation?
 
-*"In order to ensure that sufficient power remains for core testing protocols, all safety devices have been disabled." - GLaDOS
+*"In order to ensure that sufficient power remains for core testing protocols, all safety devices have been disabled." - GLaDOS*
 
 Demo: [https://www.youtube.com/watch?v=pwMMrZbtuy4](https://www.youtube.com/watch?v=pwMMrZbtuy4)
 
