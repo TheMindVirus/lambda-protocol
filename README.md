@@ -6,7 +6,7 @@ Lambda - Also the name given to a function object generator to be called later w
 
 What happens if Portal becomes a simulation for the purpose of unlocking in-universe (or otherwise real) doors? \
 Can you run Portal inside another game? Can you use Portal Test Chamber completion to trigger real-world events? \
-What if the combine found a way to step out of the Half-Life world and infected the Portal security simulation?
+What if the combine found a way to break Half-Life's virtual fourth wall and infected the Portal security simulation?
 
 *"In order to ensure that sufficient power remains for core testing protocols, all safety devices have been disabled." - GLaDOS*
 
